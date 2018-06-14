@@ -10,6 +10,13 @@
 3. Try a few!
 4. What is that terminal?
 
+## Sections
+### Crypto
+* [Hash lookup](https://hashkiller.co.uk/md5-decrypter.aspx)
+* [Number converters](https://www.rapidtables.com/convert/number/index.html)
+* [base64 to hex](http://tomeko.net/online_tools/base64.php?lang=en)
+* [AES Decrypter](http://aes.online-domain-tools.com/)
+
 ## What we used today
 * [picoCTF 2017](https://2017.picoctf.com/)
 * [Packet Total](https://packettotal.com) web-based pcap viewer
