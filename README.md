@@ -11,12 +11,16 @@
 4. What is that terminal?
 
 ## Sections
+### Forensics
 ### Crypto
 * [Hash lookup](https://hashkiller.co.uk/md5-decrypter.aspx)
 * [Number converters](https://www.rapidtables.com/convert/number/index.html)
 * [base64 to hex](http://tomeko.net/online_tools/base64.php?lang=en)
 * [AES Decrypter](http://aes.online-domain-tools.com/)
-
+### Reverse Engineering
+### Web Exploitation
+### Binary Exploitation
+### Misc
 ## What we used today
 * [picoCTF 2017](https://2017.picoctf.com/)
 * [Packet Total](https://packettotal.com) web-based pcap viewer
@@ -24,7 +28,7 @@
 
 
 
-# Going Further
+## Going Further
 * [What is CTF video](https://www.youtube.com/watch?v=8ev9ZX9J45A)
 * [Wireshark](https://www.wireshark.org/) full featured network analyzer
 * [CTF Time](https://ctftime.org/) find CTFs to join!
