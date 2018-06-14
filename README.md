@@ -12,19 +12,36 @@
 
 ## Sections
 ### Forensics
+* [Packet Total](https://packettotal.com) web-based pcap viewer
+
 ### Crypto
 * [Hash lookup](https://hashkiller.co.uk/md5-decrypter.aspx)
 * [Number converters](https://www.rapidtables.com/convert/number/index.html)
 * [base64 to hex](http://tomeko.net/online_tools/base64.php?lang=en)
 * [AES Decrypter](http://aes.online-domain-tools.com/)
+* [Generating Keys on Macs](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x)
+* [Generating Keys on Windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
+* [Wolfram Alpha](http://www.wolframalpha.com/) fancy calculator
 ### Reverse Engineering
+```
+# hex2raw
+xxd -r -p
+# raw2 hex
+xxd -p
+```
+* Use the pipe "|" to redirect output
+
 ### Web Exploitation
+* "View source" is your friend
 ### Binary Exploitation
+* [Bash Scripting](https://devhints.io/bash)
 ### Misc
+* [Linux command-line interface](https://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/)
+*
 ## What we used today
 * [picoCTF 2017](https://2017.picoctf.com/)
 * [Packet Total](https://packettotal.com) web-based pcap viewer
-* [Wolfram Alpha](http://www.wolframalpha.com/) fancy calculator
+
 
 
 
