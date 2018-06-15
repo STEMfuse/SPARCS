@@ -47,6 +47,7 @@ xxd -p
 
 ## Going Further
 * [What is CTF video](https://www.youtube.com/watch?v=8ev9ZX9J45A)
+* [Intro to CTF Book](https://trailofbits.github.io/ctf/index.html)
 * [Wireshark](https://www.wireshark.org/) full featured network analyzer
 * [CTF Time](https://ctftime.org/) find CTFs to join!
 * [Ubuntu Desktop Linux](https://www.ubuntu.com/download/desktop) one variety of Linux (you can [install it on windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0))
