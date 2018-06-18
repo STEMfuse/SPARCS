@@ -1,3 +1,4 @@
+![STEM Fuse](res/STEMFuseLogo-LargeAlone.png)
 # SPARCS@Mac STEM Fuse
 
 ## CTF
