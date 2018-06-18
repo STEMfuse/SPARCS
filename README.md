@@ -43,12 +43,12 @@ xxd -p
 * [Bash Scripting](https://devhints.io/bash)
 
 ### Misc
-* [Linux command-line interface](https://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/)
-* [Linux](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
+* [Linux](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux) command line interface 
 
 
 
 ## Going Further
+* [Capture the Flag: It's a game for hack...I mean security professionals](https://dev.to/_theycallmetoni/capture-the-flag-its-a-game-for-hacki-mean-security-professionals)
 * [What is CTF video](https://www.youtube.com/watch?v=8ev9ZX9J45A)
 * [Intro to CTF Book](https://trailofbits.github.io/ctf/index.html)
 * [Wireshark](https://www.wireshark.org/) full featured network analyzer
