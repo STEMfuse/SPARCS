@@ -54,4 +54,6 @@ xxd -p
 * [CTF Time](https://ctftime.org/) find CTFs to join!
 * [Ubuntu Desktop Linux](https://www.ubuntu.com/download/desktop) one variety of Linux -- you can [install it on windows 10](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0)
 * [picoCTF Level 1 Walk-through](https://www.youtube.com/watch?v=2Zs5zrTEdxk&list=PLZK3t9lGEks-LfWcwgKSzyYZyX67uHrK9)
+* [Wargames](http://overthewire.org/wargames/) from OverTheWire
+* [Kali linux](https://www.kali.org/) advanced linux distribution for pen-testers 
 
