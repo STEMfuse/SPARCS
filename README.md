@@ -3,6 +3,9 @@
 ## CTF
 * What is CTF?
 * How do you learn CTF skills?
+    * Google
+    * Walk-throughs
+    * More CTFs
 
 ## [picoCTF](https://2017.picoctf.com/)
 1. Make an account
@@ -29,7 +32,7 @@ xxd -r -p
 # raw2 hex
 xxd -p
 ```
-* Use the pipe "|" to redirect output
+* Use the pipe "\|" to redirect output
 
 ### Web Exploitation
 * "View source" is your friend
@@ -41,6 +44,7 @@ xxd -p
 ## What we used today
 * [picoCTF 2017](https://2017.picoctf.com/)
 * [Packet Total](https://packettotal.com) web-based pcap viewer
+* [Linux](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
 
 
 
