@@ -10,6 +10,7 @@
 
 ## [picoCTF](https://2017.picoctf.com/)
 1. Make an account
+    * Use [mailinator](https://www.mailinator.com/) for a public email address of your choosing
 2. Walk-through tutorial as a group.
 3. Try a few!
 4. What is that terminal?
