@@ -1,5 +1,5 @@
 ![STEM Fuse](res/STEMFuseLogo-LargeAlone.png)
-# SPARCS@Mac STEM Fuse
+# Capture the Flag
 
 ## CTF
 * What is CTF?
